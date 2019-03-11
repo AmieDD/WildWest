@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WildWest", "WildWest\WildWest.csproj", "{AE60BDC6-F005-4ADC-9198-97DA02B0E46D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Test", "00.Test", "{BD86BC62-9EA6-4F05-B9DF-CFF6F1D48D8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.API", "01.API", "{4315C55A-815C-4632-81CB-5BE15E8D47FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.WebPages", "02.WebPages", "{33ADF185-3A74-449B-9102-D7ED1F1C9132}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Services", "03.Services", "{4B08C892-B251-4111-BD12-5C4C01AE6298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitWildWest", "XUnitWildWest\XUnitWildWest.csproj", "{9883F018-062F-4977-BE51-E1F1E6841075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE60BDC6-F005-4ADC-9198-97DA02B0E46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE60BDC6-F005-4ADC-9198-97DA02B0E46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE60BDC6-F005-4ADC-9198-97DA02B0E46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE60BDC6-F005-4ADC-9198-97DA02B0E46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9883F018-062F-4977-BE51-E1F1E6841075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9883F018-062F-4977-BE51-E1F1E6841075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9883F018-062F-4977-BE51-E1F1E6841075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9883F018-062F-4977-BE51-E1F1E6841075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE60BDC6-F005-4ADC-9198-97DA02B0E46D} = {33ADF185-3A74-449B-9102-D7ED1F1C9132}
+		{9883F018-062F-4977-BE51-E1F1E6841075} = {BD86BC62-9EA6-4F05-B9DF-CFF6F1D48D8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00912888-6981-4BD4-B410-77BFD9097B48}
+	EndGlobalSection
+EndGlobal
