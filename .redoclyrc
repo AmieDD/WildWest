@@ -1,0 +1,8 @@
+
+apiTitle: WildWest
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: AmieDD/WildWest
+oasVersion: 3.0.0

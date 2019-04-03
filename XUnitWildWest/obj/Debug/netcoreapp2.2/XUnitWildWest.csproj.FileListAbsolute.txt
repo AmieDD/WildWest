@@ -1,0 +1,14 @@
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\XUnitWildWest.deps.json
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\XUnitWildWest.runtimeconfig.json
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\XUnitWildWest.runtimeconfig.dev.json
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\XUnitWildWest.dll
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\bin\Debug\netcoreapp2.2\XUnitWildWest.pdb
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\obj\Debug\netcoreapp2.2\XUnitWildWest.csprojAssemblyReference.cache
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\obj\Debug\netcoreapp2.2\XUnitWildWest.csproj.CoreCompileInputs.cache
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\obj\Debug\netcoreapp2.2\XUnitWildWest.AssemblyInfoInputs.cache
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\obj\Debug\netcoreapp2.2\XUnitWildWest.AssemblyInfo.cs
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\obj\Debug\netcoreapp2.2\XUnitWildWest.dll
+C:\Users\i221949\Documents\WildWest\XUnitWildWest\obj\Debug\netcoreapp2.2\XUnitWildWest.pdb
