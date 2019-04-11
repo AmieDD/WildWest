@@ -1,5 +1,5 @@
 API.v1.Echo echo = new API.v1.Echo();
-echo.message = "Hello World!");
+echo.message = "Howdy!");
 EchoResponse response = echo.post();
 if (response.statusCode == HttpStatusCode.Created)
 {
