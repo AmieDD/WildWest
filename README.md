@@ -1,3 +1,10 @@
+# WildWest
+Howdy
+
+*You look like you're new. There’s barely a rind on you.*
+
+## Start Game: Wild West programming challenge game. Rules of this repo game are to fix 1 bug, and then break 1 new thing and check it in, for the next person. Next person, just repeat the previous steps.
+
 # WildWest OpenAPI Specification
 [![Build Status](https://travis-ci.com/AmieDD/WildWest.svg?branch=master)](https://travis-ci.com/AmieDD/WildWest)
 ## Steps to finish
@@ -7,23 +14,20 @@
 1. Use the token value as a value for [Travis environment variable](https://docs.travis-ci.com/user/environment-variables/#Defining-Variables-in-Repository-Settings) with the name `GH_TOKEN`
 1. Make a test commit to trigger CI: `git commit --allow-empty -m "Test Travis CI" && git push`
 1. Wait until Travis build is finished. You can check progress by clicking on the `Build Status` badge at the top
-1. **[Optional]** You can setup [custom domain](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) (just create `web/CNAME` file)
-1. **[Optional]** If your API is public consider adding it into [APIs.guru](https://APIs.guru) directory using [this form](https://apis.guru/add-api/).
-1. Delete this section ❌
+
 
 ## Links
 
 - [Reference Documentation (ReDoc)](https://amiedd.github.io/WildWest/)
 - [SwaggerUI](https://amiedd.github.io/WildWest/swagger-ui/)
 - OpenAPI Raw Files: [JSON](https://amiedd.github.io/WildWest/openapi.json) [YAML](https://amiedd.github.io/WildWest/openapi.yaml)
-
 **Warning:** All above links are updated only after Travis CI finishes deployment
 
-## Working on specification
-### Install
+### Project Webpage:
+https://amiedd.github.io/WildWest/
 
-1. Install [Node JS](https://nodejs.org/)
-2. Clone repo and run `npm install` in the repo root
+## Run this project with Gitpod
+https://gitpod.io/#https://github.com/AmieDD/WildWest
 
 ### Usage
 
@@ -39,8 +43,3 @@ Validates the spec.
 #### `npm run gh-pages`
 Deploys docs to GitHub Pages. You don't need to run it manually if you have Travis CI configured.
 
-###You look like you're new. There’s barely a rind on you.
-
-###Start Game: Wild West programming challenge game. Rules of this repo game are to fix 1 bug, and then break 1 new thing and check it in, for the next person. Next person, just repeat the previous steps.
-
-###Project Webpage: https://amiedd.github.io/WildWest/
